@@ -3,3 +3,14 @@
     display: inline-block;
     margin-top: 20px;
 }
+.footer , ul{
+    display:inline-block !important;
+    margin:auto;
+    text-align:center !important;
+}
+.bg-primary{
+    text-align:center;
+}
+.info{
+    text-align: center;
+}
