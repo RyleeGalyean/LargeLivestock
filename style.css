@@ -14,3 +14,8 @@
 .info{
     text-align: center;
 }
+.d-block{
+    display: block;
+    margin:0 auto;
+    width:800px;
+}
