@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(44, 116, 80);
+}
 .gallery
 {
     display: inline-block;
@@ -18,4 +21,31 @@
     display: block;
     margin:0 auto;
     width:800px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+.captions{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+.info{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+}
+.name{
+    text-align: center;
+    background-color: rgb(38, 75, 54);
+    color:white;
+}
+.bottom{
+    background-color: rgb(38, 75, 54);
+}
+.buttons{
+    text-align: center;
 }
